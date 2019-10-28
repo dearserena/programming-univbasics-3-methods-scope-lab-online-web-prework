@@ -10,9 +10,9 @@ def toadstool
 end
 
 
-def its_late
-  late = "It's Dangerous To Go Alone! Take This."
-  puts late 
+def link
+  phrase = "It's Dangerous To Go Alone! Take This."
+  puts phrase 
 end
 
 def any_phrase(phrase)
