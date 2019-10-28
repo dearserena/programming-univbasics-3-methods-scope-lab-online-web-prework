@@ -11,8 +11,8 @@ end
 
 
 def its_late
-  phrase = "It's Dangerous To Go Alone! Take This."
-  puts phrase 
+  late = "It's Dangerous To Go Alone! Take This."
+  puts late 
 end
 
 def any_phrase(phrase)
